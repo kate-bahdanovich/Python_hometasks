@@ -1,24 +1,26 @@
-s_input = '''homEwork:
-
-  tHis iz your homeWork, copy these Text to variable.
-
-
-
-  You NEED TO normalize it fROM letter CASEs point oF View. also, create one MORE senTENCE witH LAST WoRDS of each existING SENtence and add it to the END OF this Paragraph.
-
-
-
-  it iZ misspeLLing here. fix“iZ” with correct “is”, but ONLY when it Iz a mistAKE.
-
-
-
-  last iz TO calculate nuMber OF Whitespace characteRS in this Tex. caREFULL, not only Spaces, but ALL whitespaces. I got 87.'''
+if __name__ == '__main__':
+    s_input = '''homEwork:
+    
+      tHis iz your homeWork, copy these Text to variable.
+    
+    
+    
+      You NEED TO normalize it fROM letter CASEs point oF View. also, create one MORE senTENCE witH LAST WoRDS of each existING SENtence and add it to the END OF this Paragraph.
+    
+    
+    
+      it iZ misspeLLing here. fix“iZ” with correct “is”, but ONLY when it Iz a mistAKE.
+    
+    
+    
+      last iz TO calculate nuMber OF Whitespace characteRS in this Tex. caREFULL, not only Spaces, but ALL whitespaces. I got 87.'''
 
 def get_number_of_whitespaces(s):
     s_temp = "".join(s.split())                             # create string without whitespaces. Subtract the length of input string and the length of temp string
     return len(s) - len(s_temp)
 
-print(get_number_of_whitespaces(s_input))
+if __name__ == '__main__':
+    print(get_number_of_whitespaces(s_input))
 
 def set_upper_case_after_char(s,c):
     list_of_paragraph = s.split(c)                          # create a list of paragraphs
@@ -41,7 +43,6 @@ def normilize_str(s):
     s = set_upper_case_after_char(s, "\n")                  # capitalize first words of the paragraph
     s = set_upper_case_after_char(s, ".")                   # capitalize first words after "."
     return s
-#print(normilize_str(s_input))
 
 def get_new_sentence_from_last_words(s):
     list_of_sentence = s.split(".")                         # create list of sentences
@@ -52,8 +53,9 @@ def get_new_sentence_from_last_words(s):
     new_sentence_str = " ".join(new_sentence)               # create a string from list...
     new_sentence_str = new_sentence_str.capitalize()        # ... and capitalize it
     return new_sentence_str
-#print(get_new_sentence_from_last_words(normilize_str(s_input)))
 
-s_output = normilize_str(s_input)
-s_output = s_output.replace("paragraph.", "paragraph. " + get_new_sentence_from_last_words(s_output))
-print(s_output)
+
+if __name__ == '__main__':
+    s_output = normilize_str(s_input)
+    s_output = s_output.replace("paragraph.", "paragraph. " + get_new_sentence_from_last_words(s_output))
+    print(s_output)

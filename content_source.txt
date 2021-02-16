@@ -1,0 +1,8 @@
+1|JUST To bE suRe THaT NorMilIze WorkS: news from file|New York
+2|advert from file|2021-02-17
+3|Comment from file|Kate
+4 fdhkfga lksgf
+5|neW EveNt typE froM fiLe|has more properties|5
+1|corrupted news
+3|additional fields|field1|filed2
+2|date has wrong format|12-09-09
