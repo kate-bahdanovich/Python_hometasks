@@ -1,0 +1,225 @@
+----------------- News -----------------
+Trying to Read fRom file
+Minsk, 26/02/2021 16:29:25
+
+
+----------------- News -----------------
+Trying to read from file
+Minsk, 26/02/2021 16:39:04
+
+
+----------------- News -----------------
+Trying to read from file
+Minsk, 26/02/2021 16:40:42
+
+
+----------------- News -----------------
+Trying to read from file
+Minsk, 26/02/2021 17:11:30
+
+
+------------- Advertising -------------
+Aaad fgvh dsds 
+Actual until: 28/02/2021, 1 days left
+
+
+----------------- News -----------------
+Trying to read from file
+Minsk, 26/02/2021 17:12:39
+
+
+------------- Advertising -------------
+Aaad fgvh dsds 
+Actual until: 28/02/2021, 1 days left
+
+
+----------------- News -----------------
+Trying to read from file
+Minsk, 26/02/2021 17:49:42
+
+
+------------- Advertising -------------
+Aaad fgvh dsds 
+Actual until: 28/02/2021, 1 days left
+
+
+----------------- News -----------------
+Trying to read from file
+Minsk, 26/02/2021 17:51:13
+
+
+------------- Advertising -------------
+Aaad fgvh dsds 
+Actual until: 28/02/2021, 1 days left
+
+
+------------- User Comment -------------
+Vh dsds usercomment
+From 2021-02-29, at 26/02/2021 17:51:13
+
+
+----------------- News -----------------
+Trying to read from file
+Minsk, 26/02/2021 17:54:57
+
+
+------------- Advertising -------------
+Aaad fgvh dsds 
+Actual until: 28/02/2021, 1 days left
+
+
+------------- User Comment -------------
+Vh dsds usercomment
+From Kate, at 26/02/2021 17:54:57
+
+
+----------------- News -----------------
+Trying to read from file
+Minsk, 26/02/2021 17:56:45
+
+
+------------- Advertising -------------
+Aaad fgvh dsds 
+Actual until: 28/02/2021, 1 days left
+
+
+------------- User Comment -------------
+Vh dsds usercomment
+From Kate, at 26/02/2021 17:56:45
+
+
+----------------- News -----------------
+Just to be sure that normilize works: news from file
+New York, 26/02/2021 18:04:14
+
+
+------------- Advertising -------------
+Advert from file 
+Actual until: 17/02/2021, -10 days left
+
+
+------------- User Comment -------------
+Comment from file
+From Kate, at 26/02/2021 18:04:14
+
+
+------------- User Comment -------------
+Additional fields
+From field1, at 26/02/2021 18:04:14
+
+
+----------------- News -----------------
+Just to be sure that normilize works: news from file
+New York, 26/02/2021 18:10:53
+
+
+------------- Advertising -------------
+Advert from file 
+Actual until: 17/02/2021, -10 days left
+
+
+------------- User Comment -------------
+Comment from file
+From Kate, at 26/02/2021 18:10:53
+
+
+------------- User Comment -------------
+Additional fields
+From field1, at 26/02/2021 18:10:53
+
+
+------------- User Comment -------------
+TRYING UPPER CasE ImpUt
+From Kate, at 26/02/2021 18:12:02
+
+
+------------- User Comment -------------
+Tryinng upper case input
+From Kate, at 26/02/2021 18:13:40
+
+
+----------------- News -----------------
+Dercvg dg fdfrcsc ;iul
+Abrada, 26/02/2021 18:24:14
+
+
+----------------- News -----------------
+Trying to read from file
+Minsk, 26/02/2021 18:26:17
+
+
+------------- Advertising -------------
+Aaad fgvh dsds 
+Actual until: 28/02/2021, 1 days left
+
+
+------------- User Comment -------------
+Vh dsds usercomment
+From Kate, at 26/02/2021 18:26:17
+
+
+----------------- News -----------------
+Trying to read from file
+Minsk, 28/02/2021 20:55:34
+
+
+------------- Advertising -------------
+Aaad fgvh dsds 
+Actual until: 28/02/2021, -1 days left
+
+
+------------- User Comment -------------
+Vh dsds usercomment
+From Kate, at 28/02/2021 20:55:34
+
+
+----------------- News -----------------
+Some news bla-bla form xml
+Minsk, 08/03/2021 19:06:02
+
+
+----------------- News -----------------
+Some news bla-bla form xml
+Minsk, 08/03/2021 19:09:10
+
+
+----------------- News -----------------
+Some news bla-bla form xml
+Minsk, 08/03/2021 19:10:46
+
+
+------------- Advertising -------------
+Some advertising bla-bla from xml ta-da-da 
+Actual until: 15/03/2021, 6 days left
+
+
+----------------- News -----------------
+Some news bla-bla form xml
+Minsk, 08/03/2021 19:14:10
+
+
+------------- Advertising -------------
+Some advertising bla-bla from xml ta-da-da 
+Actual until: 15/03/2021, 6 days left
+
+
+------------- User Comment -------------
+User comment from xml file
+From Kate B, at 08/03/2021 19:14:10
+
+
+----------------- News -----------------
+Some news bla-bla form xml
+Minsk, 08/03/2021 19:18:42
+
+
+------------- Advertising -------------
+Some advertising bla-bla from xml ta-da-da 
+Actual until: 15/03/2021, 6 days left
+
+
+------------- User Comment -------------
+User comment from xml file
+From Kate B, at 08/03/2021 19:18:42
+
+
