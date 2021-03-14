@@ -13,14 +13,20 @@ class ContentToDB:
         # define cursor
         self.cursor = self.connection.cursor()
         # create tables if they not exist
-        self.cursor.execute('CREATE TABLE IF NOT EXISTS News (news_text text, city text, news_date date)')
-        self.cursor.execute('CREATE TABLE IF NOT EXISTS Advert (adv_text text, adv_exp_date date, adv_date date)')
+        self.cursor.execute('CREATE TABLE IF NOT EXISTS News '
+                            '(news_text text, city text, news_date date, PRIMARY KEY (news_text, city))')
+        self.cursor.execute('CREATE TABLE IF NOT EXISTS Advert '
+                            '(adv_text text, adv_exp_date date, adv_date date, PRIMARY KEY (adv_text, adv_exp_date))')
         self.cursor.execute(
-            'CREATE TABLE IF NOT EXISTS UserComment (comment_text text, comment_user_name text, comment_date date)')
+            'CREATE TABLE IF NOT EXISTS UserComment '
+            '(comment_text text, comment_user_name text, comment_date date, PRIMARY KEY (comment_text, comment_user_name))')
 
     # define procedure for row inserting
     def insert_content(self, query):
-        self.cursor.execute(query)
+        try:
+            self.cursor.execute(query)
+        except:
+            print(f"Following query '{query}' failed to run cause of not unique values for primary key fields")
 
     # define destructor to close connection and cursor
     def __del__(self):

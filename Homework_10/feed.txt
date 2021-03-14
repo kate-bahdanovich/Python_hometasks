@@ -1,26 +1,31 @@
 ----------------- News -----------------
-Just to be sure that normilize works: news from file
-New York, 2021-03-14 14:51:12
+New news for db
+Minsk, 2021-03-14 15:42:55
+
+
+----------------- News -----------------
+Some news bla-bla form xml
+Minsk, 2021-03-14 15:43:14
 
 
 ------------- Advertising -------------
-Advert from file 
-Actual until: 2021-02-17, -26 days left
+Some advertising bla-bla from xml ta-da-da 
+Actual until: 2021-03-15, 0 days left
 
 
 ------------- User Comment -------------
-Comment from file
-From Kate, at 2021-03-14 14:51:12
+User comment from xml file
+From Kate B, at 2021-03-14 15:43:14
 
 
-------------- User Comment -------------
-Additional fields
-From field1, at 2021-03-14 14:51:12
+----------------- News -----------------
+Some news bla-bla form xml
+Minsk, 2021-03-14 15:45:08
 
 
 ----------------- News -----------------
 Trying to read from file
-Minsk, 2021-03-14 14:51:42
+Minsk, 2021-03-14 15:53:39
 
 
 ------------- Advertising -------------
@@ -30,11 +35,21 @@ Actual until: 2021-02-28, -15 days left
 
 ------------- User Comment -------------
 Vh dsds usercomment
-From Kate, at 2021-03-14 14:51:42
+From Kate, at 2021-03-14 15:53:40
+
+
+----------------- News -----------------
+Trying to read from file
+Minsk, 2021-03-14 15:53:47
+
+
+------------- Advertising -------------
+Aaad fgvh dsds 
+Actual until: 2021-02-28, -15 days left
 
 
 ------------- User Comment -------------
-User comment from console
-From New_Name, at 2021-03-14 15:18:12
+Vh dsds usercomment
+From Kate, at 2021-03-14 15:53:47
 
 
