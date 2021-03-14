@@ -1,0 +1,27 @@
+<data>
+    <item>
+        <type>News</type>
+        <text>some news bla-bla form xml</text>
+        <city>Minsk</city>
+    </item>
+    <item>
+        <type>News1</type>
+        <text>some news bla-bla form xml</text>
+        <city>Brest</city>
+    </item>
+    <item>
+        <type>Advert</type>
+        <text>some advertising bla-bla from xml ta-da-da</text>
+        <exp_date>2021-03-15</exp_date>
+    </item>
+    <item>
+        <type>Advert</type>
+        <text>advertising with incorrect date</text>
+        <exp_date>2021-13-15</exp_date>
+    </item>
+    <item>
+        <type>UserComment</type>
+        <text>User Comment from XML file</text>
+        <user_name>Kate B</user_name>
+    </item>
+</data>

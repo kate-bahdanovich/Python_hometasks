@@ -1,0 +1,6 @@
+[{"type": "News", "text": "Trying to Read fRom file", "city": "Minsk"},
+ {"type": "News", "text": "trying to read from file", "city1": "Minsk"},
+ {"type": "Advert", "text": "AaAd FGVH DsdS", "exp_date": "2021-02-28"},
+ {"type": "Advert", "text": "VH DsdS UserComment", "user_name": "2021-02-29"},
+ {"type": "UserComment", "text": "VH DsdS UserComment", "user_name": "Kate"}
+]
